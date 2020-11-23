@@ -1,0 +1,6 @@
+C:\Users\HP\OneDrive\Desktop\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe.config
+C:\Users\HP\OneDrive\Desktop\AbstractClass\AbstractClass\bin\Debug\AbstractClass.exe
+C:\Users\HP\OneDrive\Desktop\AbstractClass\AbstractClass\bin\Debug\AbstractClass.pdb
+C:\Users\HP\OneDrive\Desktop\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
+C:\Users\HP\OneDrive\Desktop\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
